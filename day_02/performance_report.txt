@@ -1,0 +1,11 @@
+==== Performance Report ====
+Bangalore: 18990
+Chennai: 19900
+Hyderabad: 19000
+Mumbai: 20900
+Delhi: 13700
+
+Total Sale: 92490
+Average Sale: 18498.0
+Best Region: Mumbai
+Worst Region: Delhi
