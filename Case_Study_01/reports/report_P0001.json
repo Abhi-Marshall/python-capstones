@@ -1,0 +1,50 @@
+[
+    {
+        "appointment_id": "A0001",
+        "patient_id": "P0001",
+        "doctor_id": "D0001",
+        "slot_id": 3,
+        "timestamp": "2026-01-24T03:08:45.481747",
+        "consultation_notes": "Consultation completed at slot 3",
+        "vitals": {
+            "blood_pressure": "120/80",
+            "heart_rate": "72 bpm",
+            "temperature": "98.6\u00b0F"
+        },
+        "diagnosis": "Routine checkup completed",
+        "prescription": "Take rest and maintain healthy diet",
+        "follow_up": "After 3 months"
+    },
+    {
+        "appointment_id": "A0001",
+        "patient_id": "P0001",
+        "doctor_id": "D0001",
+        "slot_id": 3,
+        "timestamp": "2026-01-24T14:10:47.657856",
+        "consultation_notes": "Consultation completed at slot 3",
+        "vitals": {
+            "blood_pressure": "120/80",
+            "heart_rate": "72 bpm",
+            "temperature": "98.6\u00b0F"
+        },
+        "diagnosis": "Routine checkup completed",
+        "prescription": "Take rest and maintain healthy diet",
+        "follow_up": "After 3 months"
+    },
+    {
+        "appointment_id": "A0002",
+        "patient_id": "P0001",
+        "doctor_id": "D0001",
+        "slot_id": 4,
+        "timestamp": "2026-01-24T14:10:48.165254",
+        "consultation_notes": "Consultation completed at slot 4",
+        "vitals": {
+            "blood_pressure": "120/80",
+            "heart_rate": "72 bpm",
+            "temperature": "98.6\u00b0F"
+        },
+        "diagnosis": "Routine checkup completed",
+        "prescription": "Take rest and maintain healthy diet",
+        "follow_up": "After 3 months"
+    }
+]
