@@ -1,0 +1,9 @@
+TRAINING CENTER MANAGEMENT REPORT
+--------------------------------
+Total Students: 2
+Premium Students: 1
+Standard Students: 1
+Average Attendance: 56.67%
+Low Attendance Students:
+- Abhi
+- Marshall

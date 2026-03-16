@@ -1,0 +1,125 @@
+{
+    "D0001": {
+        "name": "Abhijeet",
+        "department": "Neurology",
+        "qualification": "MD",
+        "thread_id": 6128218112,
+        "thread_name": "PatientThread-P0001",
+        "created_at": "2026-01-24T02:53:33.523865",
+        "available_slots": [
+            {
+                "slot_id": 0,
+                "time": "10:00",
+                "booked": false,
+                "booked_by": null,
+                "booked_at": null
+            },
+            {
+                "slot_id": 1,
+                "time": "10:30",
+                "booked": true,
+                "booked_by": "P0001",
+                "booked_at": "2026-01-24T15:34:09.028672"
+            },
+            {
+                "slot_id": 2,
+                "time": "11:00",
+                "booked": false,
+                "booked_by": null,
+                "booked_at": null
+            },
+            {
+                "slot_id": 3,
+                "time": "11:30",
+                "booked": false,
+                "booked_by": null,
+                "booked_at": null
+            },
+            {
+                "slot_id": 4,
+                "time": "12:00",
+                "booked": false,
+                "booked_by": null,
+                "booked_at": null
+            },
+            {
+                "slot_id": 5,
+                "time": "12:30",
+                "booked": false,
+                "booked_by": null,
+                "booked_at": null
+            },
+            {
+                "slot_id": 6,
+                "time": "13:00",
+                "booked": false,
+                "booked_by": null,
+                "booked_at": null
+            },
+            {
+                "slot_id": 7,
+                "time": "13:30",
+                "booked": false,
+                "booked_by": null,
+                "booked_at": null
+            },
+            {
+                "slot_id": 8,
+                "time": "14:00",
+                "booked": false,
+                "booked_by": null,
+                "booked_at": null
+            },
+            {
+                "slot_id": 9,
+                "time": "14:30",
+                "booked": false,
+                "booked_by": null,
+                "booked_at": null
+            },
+            {
+                "slot_id": 10,
+                "time": "15:00",
+                "booked": false,
+                "booked_by": null,
+                "booked_at": null
+            },
+            {
+                "slot_id": 11,
+                "time": "15:30",
+                "booked": false,
+                "booked_by": null,
+                "booked_at": null
+            },
+            {
+                "slot_id": 12,
+                "time": "16:00",
+                "booked": false,
+                "booked_by": null,
+                "booked_at": null
+            },
+            {
+                "slot_id": 13,
+                "time": "16:30",
+                "booked": false,
+                "booked_by": null,
+                "booked_at": null
+            },
+            {
+                "slot_id": 14,
+                "time": "17:00",
+                "booked": false,
+                "booked_by": null,
+                "booked_at": null
+            },
+            {
+                "slot_id": 15,
+                "time": "17:30",
+                "booked": false,
+                "booked_by": null,
+                "booked_at": null
+            }
+        ],
+        "status": "active"
+    }
+}
